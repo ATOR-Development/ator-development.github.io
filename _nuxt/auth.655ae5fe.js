@@ -1,0 +1,1 @@
+import{B as e,A as o}from"./entry.1c0bd582.js";import{u}from"./provider.8f168f1f.js";import{u as a}from"./highlightConnectButton.a610afe3.js";import"./__vite-browser-external.66d318e3.js";const l=e(async(i,n)=>{if(!u().value){const t=a();return t.value=!0,setTimeout(()=>t.value=!1,2e3),o("/")}});export{l as default};
